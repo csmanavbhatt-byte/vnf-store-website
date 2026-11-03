@@ -1,0 +1,524 @@
+[
+  {
+    "file": "client-upload-001-whatsapp-image-2026-11-02-at-4-23-27-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.27 PM (1).jpeg",
+    "public_path": "/images/client-upload-001-whatsapp-image-2026-11-02-at-4-23-27-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-002-whatsapp-image-2026-11-02-at-4-23-27-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.27 PM (2).jpeg",
+    "public_path": "/images/client-upload-002-whatsapp-image-2026-11-02-at-4-23-27-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-003-whatsapp-image-2026-11-02-at-4-23-27-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.27 PM (3).jpeg",
+    "public_path": "/images/client-upload-003-whatsapp-image-2026-11-02-at-4-23-27-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-004-whatsapp-image-2026-11-02-at-4-23-27-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.27 PM.jpeg",
+    "public_path": "/images/client-upload-004-whatsapp-image-2026-11-02-at-4-23-27-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-005-whatsapp-image-2026-11-02-at-4-23-28-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.28 PM (1).jpeg",
+    "public_path": "/images/client-upload-005-whatsapp-image-2026-11-02-at-4-23-28-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-006-whatsapp-image-2026-11-02-at-4-23-28-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.28 PM (2).jpeg",
+    "public_path": "/images/client-upload-006-whatsapp-image-2026-11-02-at-4-23-28-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-007-whatsapp-image-2026-11-02-at-4-23-28-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.28 PM (3).jpeg",
+    "public_path": "/images/client-upload-007-whatsapp-image-2026-11-02-at-4-23-28-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-008-whatsapp-image-2026-11-02-at-4-23-28-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.28 PM.jpeg",
+    "public_path": "/images/client-upload-008-whatsapp-image-2026-11-02-at-4-23-28-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-009-whatsapp-image-2026-11-02-at-4-23-29-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.29 PM (1).jpeg",
+    "public_path": "/images/client-upload-009-whatsapp-image-2026-11-02-at-4-23-29-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-010-whatsapp-image-2026-11-02-at-4-23-29-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.29 PM (2).jpeg",
+    "public_path": "/images/client-upload-010-whatsapp-image-2026-11-02-at-4-23-29-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-011-whatsapp-image-2026-11-02-at-4-23-29-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.29 PM (3).jpeg",
+    "public_path": "/images/client-upload-011-whatsapp-image-2026-11-02-at-4-23-29-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-012-whatsapp-image-2026-11-02-at-4-23-29-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.29 PM.jpeg",
+    "public_path": "/images/client-upload-012-whatsapp-image-2026-11-02-at-4-23-29-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-013-whatsapp-image-2026-11-02-at-4-23-30-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.30 PM (1).jpeg",
+    "public_path": "/images/client-upload-013-whatsapp-image-2026-11-02-at-4-23-30-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-014-whatsapp-image-2026-11-02-at-4-23-30-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.30 PM (2).jpeg",
+    "public_path": "/images/client-upload-014-whatsapp-image-2026-11-02-at-4-23-30-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-015-whatsapp-image-2026-11-02-at-4-23-30-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.30 PM (3).jpeg",
+    "public_path": "/images/client-upload-015-whatsapp-image-2026-11-02-at-4-23-30-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-016-whatsapp-image-2026-11-02-at-4-23-30-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.30 PM.jpeg",
+    "public_path": "/images/client-upload-016-whatsapp-image-2026-11-02-at-4-23-30-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-017-whatsapp-image-2026-11-02-at-4-23-31-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.31 PM (1).jpeg",
+    "public_path": "/images/client-upload-017-whatsapp-image-2026-11-02-at-4-23-31-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-018-whatsapp-image-2026-11-02-at-4-23-31-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.31 PM (2).jpeg",
+    "public_path": "/images/client-upload-018-whatsapp-image-2026-11-02-at-4-23-31-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-019-whatsapp-image-2026-11-02-at-4-23-31-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.31 PM (3).jpeg",
+    "public_path": "/images/client-upload-019-whatsapp-image-2026-11-02-at-4-23-31-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-020-whatsapp-image-2026-11-02-at-4-23-31-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.31 PM.jpeg",
+    "public_path": "/images/client-upload-020-whatsapp-image-2026-11-02-at-4-23-31-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-021-whatsapp-image-2026-11-02-at-4-23-32-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.32 PM (1).jpeg",
+    "public_path": "/images/client-upload-021-whatsapp-image-2026-11-02-at-4-23-32-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-022-whatsapp-image-2026-11-02-at-4-23-32-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.32 PM (2).jpeg",
+    "public_path": "/images/client-upload-022-whatsapp-image-2026-11-02-at-4-23-32-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-023-whatsapp-image-2026-11-02-at-4-23-32-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.32 PM (3).jpeg",
+    "public_path": "/images/client-upload-023-whatsapp-image-2026-11-02-at-4-23-32-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-024-whatsapp-image-2026-11-02-at-4-23-32-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.32 PM.jpeg",
+    "public_path": "/images/client-upload-024-whatsapp-image-2026-11-02-at-4-23-32-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-025-whatsapp-image-2026-11-02-at-4-23-33-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.33 PM (1).jpeg",
+    "public_path": "/images/client-upload-025-whatsapp-image-2026-11-02-at-4-23-33-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-026-whatsapp-image-2026-11-02-at-4-23-33-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.33 PM (2).jpeg",
+    "public_path": "/images/client-upload-026-whatsapp-image-2026-11-02-at-4-23-33-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-027-whatsapp-image-2026-11-02-at-4-23-33-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.33 PM (3).jpeg",
+    "public_path": "/images/client-upload-027-whatsapp-image-2026-11-02-at-4-23-33-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-028-whatsapp-image-2026-11-02-at-4-23-33-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.33 PM.jpeg",
+    "public_path": "/images/client-upload-028-whatsapp-image-2026-11-02-at-4-23-33-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-029-whatsapp-image-2026-11-02-at-4-23-34-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.34 PM (1).jpeg",
+    "public_path": "/images/client-upload-029-whatsapp-image-2026-11-02-at-4-23-34-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-030-whatsapp-image-2026-11-02-at-4-23-34-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.34 PM (2).jpeg",
+    "public_path": "/images/client-upload-030-whatsapp-image-2026-11-02-at-4-23-34-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-031-whatsapp-image-2026-11-02-at-4-23-34-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.34 PM (3).jpeg",
+    "public_path": "/images/client-upload-031-whatsapp-image-2026-11-02-at-4-23-34-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-032-whatsapp-image-2026-11-02-at-4-23-34-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.34 PM.jpeg",
+    "public_path": "/images/client-upload-032-whatsapp-image-2026-11-02-at-4-23-34-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-033-whatsapp-image-2026-11-02-at-4-23-35-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.35 PM (1).jpeg",
+    "public_path": "/images/client-upload-033-whatsapp-image-2026-11-02-at-4-23-35-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-034-whatsapp-image-2026-11-02-at-4-23-35-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.35 PM (2).jpeg",
+    "public_path": "/images/client-upload-034-whatsapp-image-2026-11-02-at-4-23-35-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-035-whatsapp-image-2026-11-02-at-4-23-35-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.35 PM (3).jpeg",
+    "public_path": "/images/client-upload-035-whatsapp-image-2026-11-02-at-4-23-35-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-036-whatsapp-image-2026-11-02-at-4-23-35-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.35 PM.jpeg",
+    "public_path": "/images/client-upload-036-whatsapp-image-2026-11-02-at-4-23-35-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-037-whatsapp-image-2026-11-02-at-4-23-36-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.36 PM (1).jpeg",
+    "public_path": "/images/client-upload-037-whatsapp-image-2026-11-02-at-4-23-36-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-038-whatsapp-image-2026-11-02-at-4-23-36-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.36 PM (2).jpeg",
+    "public_path": "/images/client-upload-038-whatsapp-image-2026-11-02-at-4-23-36-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-039-whatsapp-image-2026-11-02-at-4-23-36-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.36 PM (3).jpeg",
+    "public_path": "/images/client-upload-039-whatsapp-image-2026-11-02-at-4-23-36-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-040-whatsapp-image-2026-11-02-at-4-23-36-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.36 PM.jpeg",
+    "public_path": "/images/client-upload-040-whatsapp-image-2026-11-02-at-4-23-36-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-041-whatsapp-image-2026-11-02-at-4-23-37-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.37 PM (1).jpeg",
+    "public_path": "/images/client-upload-041-whatsapp-image-2026-11-02-at-4-23-37-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-042-whatsapp-image-2026-11-02-at-4-23-37-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.37 PM (2).jpeg",
+    "public_path": "/images/client-upload-042-whatsapp-image-2026-11-02-at-4-23-37-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-043-whatsapp-image-2026-11-02-at-4-23-37-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.37 PM (3).jpeg",
+    "public_path": "/images/client-upload-043-whatsapp-image-2026-11-02-at-4-23-37-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-044-whatsapp-image-2026-11-02-at-4-23-37-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.37 PM.jpeg",
+    "public_path": "/images/client-upload-044-whatsapp-image-2026-11-02-at-4-23-37-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-045-whatsapp-image-2026-11-02-at-4-23-38-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.38 PM (1).jpeg",
+    "public_path": "/images/client-upload-045-whatsapp-image-2026-11-02-at-4-23-38-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-046-whatsapp-image-2026-11-02-at-4-23-38-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.38 PM (2).jpeg",
+    "public_path": "/images/client-upload-046-whatsapp-image-2026-11-02-at-4-23-38-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-047-whatsapp-image-2026-11-02-at-4-23-38-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.38 PM (3).jpeg",
+    "public_path": "/images/client-upload-047-whatsapp-image-2026-11-02-at-4-23-38-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-048-whatsapp-image-2026-11-02-at-4-23-38-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.38 PM(1).jpeg",
+    "public_path": "/images/client-upload-048-whatsapp-image-2026-11-02-at-4-23-38-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-049-whatsapp-image-2026-11-02-at-4-23-39-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.39 PM (1).jpeg",
+    "public_path": "/images/client-upload-049-whatsapp-image-2026-11-02-at-4-23-39-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-050-whatsapp-image-2026-11-02-at-4-23-39-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.39 PM (2).jpeg",
+    "public_path": "/images/client-upload-050-whatsapp-image-2026-11-02-at-4-23-39-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-051-whatsapp-image-2026-11-02-at-4-23-39-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.39 PM (3).jpeg",
+    "public_path": "/images/client-upload-051-whatsapp-image-2026-11-02-at-4-23-39-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-052-whatsapp-image-2026-11-02-at-4-23-39-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.39 PM.jpeg",
+    "public_path": "/images/client-upload-052-whatsapp-image-2026-11-02-at-4-23-39-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-053-whatsapp-image-2026-11-02-at-4-23-40-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.40 PM (1).jpeg",
+    "public_path": "/images/client-upload-053-whatsapp-image-2026-11-02-at-4-23-40-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-054-whatsapp-image-2026-11-02-at-4-23-40-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.40 PM (2).jpeg",
+    "public_path": "/images/client-upload-054-whatsapp-image-2026-11-02-at-4-23-40-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-055-whatsapp-image-2026-11-02-at-4-23-40-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.40 PM (3).jpeg",
+    "public_path": "/images/client-upload-055-whatsapp-image-2026-11-02-at-4-23-40-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-056-whatsapp-image-2026-11-02-at-4-23-40-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.40 PM.jpeg",
+    "public_path": "/images/client-upload-056-whatsapp-image-2026-11-02-at-4-23-40-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-057-whatsapp-image-2026-11-02-at-4-23-41-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.41 PM (1).jpeg",
+    "public_path": "/images/client-upload-057-whatsapp-image-2026-11-02-at-4-23-41-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-058-whatsapp-image-2026-11-02-at-4-23-41-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.41 PM (2).jpeg",
+    "public_path": "/images/client-upload-058-whatsapp-image-2026-11-02-at-4-23-41-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-059-whatsapp-image-2026-11-02-at-4-23-41-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.41 PM.jpeg",
+    "public_path": "/images/client-upload-059-whatsapp-image-2026-11-02-at-4-23-41-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-060-whatsapp-image-2026-11-02-at-4-23-42-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.42 PM (1).jpeg",
+    "public_path": "/images/client-upload-060-whatsapp-image-2026-11-02-at-4-23-42-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-061-whatsapp-image-2026-11-02-at-4-23-42-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.42 PM (2).jpeg",
+    "public_path": "/images/client-upload-061-whatsapp-image-2026-11-02-at-4-23-42-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-062-whatsapp-image-2026-11-02-at-4-23-42-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.42 PM (3).jpeg",
+    "public_path": "/images/client-upload-062-whatsapp-image-2026-11-02-at-4-23-42-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-063-whatsapp-image-2026-11-02-at-4-23-42-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.42 PM.jpeg",
+    "public_path": "/images/client-upload-063-whatsapp-image-2026-11-02-at-4-23-42-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-064-whatsapp-image-2026-11-02-at-4-23-43-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.43 PM (1).jpeg",
+    "public_path": "/images/client-upload-064-whatsapp-image-2026-11-02-at-4-23-43-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-065-whatsapp-image-2026-11-02-at-4-23-43-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.43 PM (2).jpeg",
+    "public_path": "/images/client-upload-065-whatsapp-image-2026-11-02-at-4-23-43-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-066-whatsapp-image-2026-11-02-at-4-23-44-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.44 PM (1).jpeg",
+    "public_path": "/images/client-upload-066-whatsapp-image-2026-11-02-at-4-23-44-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-067-whatsapp-image-2026-11-02-at-4-23-44-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.44 PM (2).jpeg",
+    "public_path": "/images/client-upload-067-whatsapp-image-2026-11-02-at-4-23-44-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-068-whatsapp-image-2026-11-02-at-4-23-44-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.44 PM (3).jpeg",
+    "public_path": "/images/client-upload-068-whatsapp-image-2026-11-02-at-4-23-44-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-069-whatsapp-image-2026-11-02-at-4-23-44-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.44 PM.jpeg",
+    "public_path": "/images/client-upload-069-whatsapp-image-2026-11-02-at-4-23-44-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-070-whatsapp-image-2026-11-02-at-4-23-45-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.45 PM (1).jpeg",
+    "public_path": "/images/client-upload-070-whatsapp-image-2026-11-02-at-4-23-45-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-071-whatsapp-image-2026-11-02-at-4-23-45-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.45 PM.jpeg",
+    "public_path": "/images/client-upload-071-whatsapp-image-2026-11-02-at-4-23-45-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-072-whatsapp-image-2026-11-02-at-4-23-54-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.54 PM (1).jpeg",
+    "public_path": "/images/client-upload-072-whatsapp-image-2026-11-02-at-4-23-54-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-073-whatsapp-image-2026-11-02-at-4-23-54-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.54 PM.jpeg",
+    "public_path": "/images/client-upload-073-whatsapp-image-2026-11-02-at-4-23-54-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-074-whatsapp-image-2026-11-02-at-4-23-55-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.55 PM (1).jpeg",
+    "public_path": "/images/client-upload-074-whatsapp-image-2026-11-02-at-4-23-55-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-075-whatsapp-image-2026-11-02-at-4-23-55-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.55 PM.jpeg",
+    "public_path": "/images/client-upload-075-whatsapp-image-2026-11-02-at-4-23-55-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-076-whatsapp-image-2026-11-02-at-4-23-57-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.57 PM (1).jpeg",
+    "public_path": "/images/client-upload-076-whatsapp-image-2026-11-02-at-4-23-57-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-077-whatsapp-image-2026-11-02-at-4-23-57-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.57 PM (2).jpeg",
+    "public_path": "/images/client-upload-077-whatsapp-image-2026-11-02-at-4-23-57-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-078-whatsapp-image-2026-11-02-at-4-23-57-pm-3.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.57 PM (3).jpeg",
+    "public_path": "/images/client-upload-078-whatsapp-image-2026-11-02-at-4-23-57-pm-3.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-079-whatsapp-image-2026-11-02-at-4-23-57-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.57 PM.jpeg",
+    "public_path": "/images/client-upload-079-whatsapp-image-2026-11-02-at-4-23-57-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-080-whatsapp-image-2026-11-02-at-4-23-58-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.58 PM.jpeg",
+    "public_path": "/images/client-upload-080-whatsapp-image-2026-11-02-at-4-23-58-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-081-whatsapp-image-2026-11-02-at-4-23-59-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.59 PM (1).jpeg",
+    "public_path": "/images/client-upload-081-whatsapp-image-2026-11-02-at-4-23-59-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-082-whatsapp-image-2026-11-02-at-4-23-59-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.59 PM (2).jpeg",
+    "public_path": "/images/client-upload-082-whatsapp-image-2026-11-02-at-4-23-59-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-083-whatsapp-image-2026-11-02-at-4-23-59-pm.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 4.23.59 PM.jpeg",
+    "public_path": "/images/client-upload-083-whatsapp-image-2026-11-02-at-4-23-59-pm.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-084-whatsapp-image-2026-11-02-at-7-41-22-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 7.41.22 PM(1).jpeg",
+    "public_path": "/images/client-upload-084-whatsapp-image-2026-11-02-at-7-41-22-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-085-whatsapp-image-2026-11-02-at-7-41-36-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 7.41.36 PM(1).jpeg",
+    "public_path": "/images/client-upload-085-whatsapp-image-2026-11-02-at-7-41-36-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-086-whatsapp-image-2026-11-02-at-7-41-57-pm-1.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 7.41.57 PM(1).jpeg",
+    "public_path": "/images/client-upload-086-whatsapp-image-2026-11-02-at-7-41-57-pm-1.jpeg",
+    "group": "Customer-supplied product photo"
+  },
+  {
+    "file": "client-upload-087-whatsapp-image-2026-11-02-at-7-41-57-pm-2.jpeg",
+    "original_filename": "WhatsApp Image 2026-11-02 at 7.41.57 PM(2).jpeg",
+    "public_path": "/images/client-upload-087-whatsapp-image-2026-11-02-at-7-41-57-pm-2.jpeg",
+    "group": "Customer-supplied product photo"
+  }
+]
