@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "LAC-KSH-012-BEI",
+    "sku": "LAC-KSH-012-BEI",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Beige / Cream",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_93.png",
+    "images": [
+      "/images/image_93.png"
+    ],
+    "status": "Active",
+    "description": "Neutral beige / cream Oxford cotton kids shirt with cursive Lacoste chest embroidery and lower front crocodile graphic"
+  },
+  {
+    "id": "LAC-KSH-012-DGRY",
+    "sku": "LAC-KSH-012-DGRY",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Charcoal Heather / Dark Grey",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_87.png",
+    "images": [
+      "/images/image_87.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve Oxford button-down shirt in textured dark grey melange with white script chest logo and large crocodile print"
+  },
+  {
+    "id": "LAC-KSH-012-LBLU",
+    "sku": "LAC-KSH-012-LBLU",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Sky Blue / Light Blue",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_88.png",
+    "images": [
+      "/images/image_88.png"
+    ],
+    "status": "Active",
+    "description": "Classic sky blue Oxford kids button-down shirt featuring signature script branding and artistic crocodile line graphic"
+  },
+  {
+    "id": "LAC-KSH-012-PEACH",
+    "sku": "LAC-KSH-012-PEACH",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Peach / Coral Orange",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_89.png",
+    "images": [
+      "/images/image_89.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve button-down Oxford shirt in warm peach orange with cursive chest branding and signature crocodile outline graphic"
+  },
+  {
+    "id": "LAC-KSH-012-WHT",
+    "sku": "LAC-KSH-012-WHT",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Crisp White",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_86.png",
+    "images": [
+      "/images/image_86.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve button-down shirt in premium Oxford cotton fabric, crisp white with contrast embroidered Lacoste script and lower crocodile motif"
+  },
+  {
+    "id": "LAC-KSH-012-YEL",
+    "sku": "LAC-KSH-012-YEL",
+    "name": "Lacoste Full Sleeve Kids Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > Shirts",
+    "variant": "2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y (Regular Fit)",
+    "color": "Pastel Yellow / Lemon",
+    "material": "Oxford Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_88.png",
+    "images": [
+      "/images/image_88.png"
+    ],
+    "status": "Active",
+    "description": "Lemon pastel yellow Oxford kids full-sleeve shirt with button-down collar, chest script embroidery, and crocodile outline graphic"
+  },
+  {
+    "id": "ZAR-KT-013-BEI",
+    "sku": "ZAR-KT-013-BEI",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Beige / Sand",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_97.png",
+    "images": [
+      "/images/image_97.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve crewneck t-shirt in Sand Beige with black gothic lettering and eagle artwork"
+  },
+  {
+    "id": "ZAR-KT-013-BLK",
+    "sku": "ZAR-KT-013-BLK",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Jet Black",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_95.png",
+    "images": [
+      "/images/image_95.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve crewneck cotton t-shirt in Jet Black featuring white gothic 'HOLLYWOOD U-S-A' eagle chest print and sleeve typography"
+  },
+  {
+    "id": "ZAR-KT-013-BRN",
+    "sku": "ZAR-KT-013-BRN",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Chocolate Brown",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_100.png",
+    "images": [
+      "/images/image_100.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve cotton t-shirt in rich Chocolate Brown featuring white gothic Hollywood eagle chest print and sleeve accents"
+  },
+  {
+    "id": "ZAR-KT-013-DGRY",
+    "sku": "ZAR-KT-013-DGRY",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Charcoal / Dark Grey",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_98.png",
+    "images": [
+      "/images/image_98.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve cotton t-shirt in Charcoal Dark Grey with white Hollywood eagle chest print and sleeve typography"
+  },
+  {
+    "id": "ZAR-KT-013-LGRY",
+    "sku": "ZAR-KT-013-LGRY",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Slate / Stone Grey",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_98.png",
+    "images": [
+      "/images/image_98.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve crewneck t-shirt in Stone / Slate Grey with dark contrast Hollywood eagle graphic"
+  },
+  {
+    "id": "ZAR-KT-013-NVY",
+    "sku": "ZAR-KT-013-NVY",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Navy Blue",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_99.png",
+    "images": [
+      "/images/image_99.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve cotton t-shirt in deep Navy Blue with white Hollywood eagle graphic and gothic sleeve lettering"
+  },
+  {
+    "id": "ZAR-KT-013-RED",
+    "sku": "ZAR-KT-013-RED",
+    "name": "Zara Full Sleeve Kids Graphic T-Shirt (Imported Article)",
+    "category": "Apparel > Kids Wear > T-Shirts",
+    "variant": "4-5Y, 5-6Y, 7-8Y, 8-9Y, 9-10Y, 11-12Y, 13-14Y",
+    "color": "Crimson Red",
+    "material": "Cotton",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_96.png",
+    "images": [
+      "/images/image_96.png"
+    ],
+    "status": "Active",
+    "description": "Kids full-sleeve cotton t-shirt in vibrant Crimson Red with white gothic Hollywood eagle chest graphic and sleeve prints"
+  },
+  {
+    "id": "AF-SW-008-CRL",
+    "sku": "AF-SW-008-CRL",
+    "name": "Abercrombie & Fitch New York Minimal Chest Logo Sweatshirt (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Coral / Peach",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_55.png",
+    "images": [
+      "/images/image_55.png"
+    ],
+    "status": "Active",
+    "description": "Abercrombie & Fitch New York Minimal Chest Logo Sweatshirt (100% Original Article)"
+  },
+  {
+    "id": "AF-SW-008-BLK2",
+    "sku": "AF-SW-008-BLK2",
+    "name": "Abercrombie 1892 Athletic Arch Logo Sweatshirt (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Washed Black / Yellow",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_53.png",
+    "images": [
+      "/images/image_53.png"
+    ],
+    "status": "Active",
+    "description": "Abercrombie 1892 Athletic Arch Logo Sweatshirt (100% Original Article)"
+  },
+  {
+    "id": "AF-SW-008-BLU",
+    "sku": "AF-SW-008-BLU",
+    "name": "Abercrombie 1892 Shield Graphic Sweatshirt (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Royal Blue",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_54.png",
+    "images": [
+      "/images/image_54.png"
+    ],
+    "status": "Active",
+    "description": "Abercrombie 1892 Shield Graphic Sweatshirt (100% Original Article)"
+  },
+  {
+    "id": "AF-SW-008-BRN",
+    "sku": "AF-SW-008-BRN",
+    "name": "Abercrombie Classic Moose Embroidered Sweatshirt (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Mocha / Taupe Brown",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_52.png",
+    "images": [
+      "/images/image_52.png"
+    ],
+    "status": "Active",
+    "description": "Abercrombie Classic Moose Embroidered Sweatshirt (100% Original Article)"
+  },
+  {
+    "id": "XMAS-SWEATSHIRTS",
+    "sku": "XMAS-SWEATSHIRTS",
+    "name": "Christmas Graphic Sweatshirts",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "4+ designs; S, M, L, XL (as supplied)",
+    "color": "White, red, navy, black and grey designs",
+    "material": "Cotton fleece fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "client-upload-003-whatsapp-image-2026-11-02-at-4-23-27-pm-3.jpeg",
+    "images": [
+      "/images/client-upload-003-whatsapp-image-2026-11-02-at-4-23-27-pm-3.jpeg",
+      "/images/client-upload-005-whatsapp-image-2026-11-02-at-4-23-28-pm-1.jpeg",
+      "/images/client-upload-006-whatsapp-image-2026-11-02-at-4-23-28-pm-2.jpeg",
+      "/images/client-upload-007-whatsapp-image-2026-11-02-at-4-23-28-pm-3.jpeg",
+      "/images/client-upload-008-whatsapp-image-2026-11-02-at-4-23-28-pm.jpeg"
+    ],
+    "status": "Active",
+    "description": "Christmas graphic sweatshirts. 4+ designs. Sizes S–XL. Cotton fleece. ₹1,800 each or 2 for ₹3,000; shipping extra"
+  },
+  {
+    "id": "DF-SW-008-GRY",
+    "sku": "DF-SW-008-GRY",
+    "name": "Denim Flower Athletic Sweatshirt - Eagles Philadelphia (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Heather Grey / Green Trim",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_55.png",
+    "images": [
+      "/images/image_55.png"
+    ],
+    "status": "Active",
+    "description": "Denim Flower Athletic Sweatshirt - Eagles Philadelphia (100% Original Article)"
+  },
+  {
+    "id": "DF-SW-008-CRM",
+    "sku": "DF-SW-008-CRM",
+    "name": "Denim Flower Graphic Sweatshirt - Badlands South Dakota (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Cream / Off-White",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_49.png",
+    "images": [
+      "/images/image_49.png",
+      "/images/image_50.png"
+    ],
+    "status": "Active",
+    "description": "Denim Flower Graphic Sweatshirt - Badlands South Dakota (100% Original Article)"
+  },
+  {
+    "id": "DF-SW-008-BLK1",
+    "sku": "DF-SW-008-BLK1",
+    "name": "Denim Flower Graphic Sweatshirt - Cerveza Modelo Grounded in Tradition (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Washed Charcoal / Black",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_51.png",
+    "images": [
+      "/images/image_51.png",
+      "/images/image_57.png"
+    ],
+    "status": "Active",
+    "description": "Denim Flower Graphic Sweatshirt - Cerveza Modelo Grounded in Tradition (100% Original Article)"
+  },
+  {
+    "id": "DF-SW-008-NVY",
+    "sku": "DF-SW-008-NVY",
+    "name": "Denim Flower Graphic Sweatshirt - Martha's Vineyard Lobster (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL (Regular Fit)",
+    "color": "Navy Blue",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_54.png",
+    "images": [
+      "/images/image_54.png"
+    ],
+    "status": "Active",
+    "description": "Denim Flower Graphic Sweatshirt - Martha's Vineyard Lobster (100% Original Article)"
+  },
+  {
+    "id": "HOLLISTER-SWEATSHIRTS-420GSM-001",
+    "sku": "HOLLISTER-SWEATSHIRTS-420GSM-001",
+    "name": "Hollister 420 GSM Cotton Fleece Sweatshirt",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "8 designs (seller stated); S, M, L, XL, XXL",
+    "color": "Multiple colours and graphic designs",
+    "material": "420 GSM Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "hollister-sweatshirts-designs-collage.jpeg",
+    "images": [
+      "/images/hollister-sweatshirts-designs-collage.jpeg",
+      "/images/hollister-sweatshirt-nba-nascar-designs.jpeg",
+      "/images/hollister-sweatshirt-paris-floral-designs.jpeg",
+      "/images/hollister-sweatshirt-disney-graphic.jpeg",
+      "/images/hollister-sweatshirt-disney-and-logo-pair.jpeg"
+    ],
+    "status": "Active",
+    "description": "Hollister sweatshirts. 8 designs. Sizes S–XXL. 420 GSM cotton fleece, regular fit. ₹2,000 each"
+  },
+  {
+    "id": "NAUTICA-SWEATSHIRT-400GSM-001",
+    "sku": "NAUTICA-SWEATSHIRT-400GSM-001",
+    "name": "Nautica 400 GSM Cotton Fleece Sweatshirt",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "4 designs (seller stated); M, L, XL, XXL",
+    "color": "Multiple designs / colours",
+    "material": "400 GSM Cotton Fleece",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "nautica-400gsm-sweatshirt-front-beige.jpeg",
+    "images": [
+      "/images/nautica-400gsm-sweatshirt-front-beige.jpeg",
+      "/images/nautica-400gsm-sweatshirt-back-beige.jpeg",
+      "/images/nautica-400gsm-sweatshirt-modelo-back.jpeg",
+      "/images/nautica-400gsm-sweatshirt-chest-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Nautica sweatshirts. 4 designs. Sizes M–XXL. 400 GSM cotton fleece, regular fit. ₹1,800 each or 2 for ₹3,000; shipping extra"
+  },
+  {
+    "id": "RR-SWT-009-TEAL",
+    "sku": "RR-SWT-009-TEAL",
+    "name": "Rare Rabbit Sweatshirt - Geometric Striped Rabbit Graphic (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Deep Teal / Bottle Green",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_61.png",
+    "images": [
+      "/images/image_61.png"
+    ],
+    "status": "Active",
+    "description": "Deep teal green sweatshirt with center front framed monochrome geometric line-art rabbit graphic, premium 340 GSM cotton fleece with custom packaging"
+  },
+  {
+    "id": "RR-SWT-009-GRY",
+    "sku": "RR-SWT-009-GRY",
+    "name": "Rare Rabbit Sweatshirt - Metallic Minimalist Script (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Sage / Light Grey",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_61.png",
+    "images": [
+      "/images/image_61.png"
+    ],
+    "status": "Active",
+    "description": "Light grey / sage sweatshirt featuring minimalist metallic curved line motif with bold lower 'RABBIT' typography, branded tags and box included"
+  },
+  {
+    "id": "RR-SWT-009-LGRN",
+    "sku": "RR-SWT-009-LGRN",
+    "name": "Rare Rabbit Sweatshirt - Rare Tiger Illustration (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Lime Green",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_61.png",
+    "images": [
+      "/images/image_61.png"
+    ],
+    "status": "Active",
+    "description": "Vibrant lime green sweatshirt featuring playful blue 'rare' puff lettering with heritage tiger art print, premium fleece fabric with branded box"
+  },
+  {
+    "id": "RR-SWT-009-WHT",
+    "sku": "RR-SWT-009-WHT",
+    "name": "Rare Rabbit Sweatshirt - Rare'zam Graphic Art (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "White / Multi-color",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_61.png",
+    "images": [
+      "/images/image_61.png"
+    ],
+    "status": "Active",
+    "description": "Clean white crewneck sweatshirt with contemporary pop-art automotive 'RARE'ZAM' print, 340 GSM cotton fleece and custom brand box"
+  },
+  {
+    "id": "RR-SWT-009-BLK",
+    "sku": "RR-SWT-009-BLK",
+    "name": "Rare Rabbit Sweatshirt - Textured Grid Box Logo (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Black / Red Accent",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_59.png",
+    "images": [
+      "/images/image_59.png"
+    ],
+    "status": "Active",
+    "description": "Black slim-fit crewneck sweatshirt featuring central textured grid square with contrasting red 'RARE RABBIT' typography, branded neck lining and custom box"
+  },
+  {
+    "id": "RR-SWT-009-PNK",
+    "sku": "RR-SWT-009-PNK",
+    "name": "Rare Rabbit Sweatshirt - Tonal Bold 'RARE' (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Dusty Rose / Peach Pink",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_60.png",
+    "images": [
+      "/images/image_60.png"
+    ],
+    "status": "Active",
+    "description": "Dusty rose pink slim-fit sweatshirt featuring bold embossed/puff 'RARE' chest branding, gentleman woven label on hem, ribbed white contrast cuff…"
+  },
+  {
+    "id": "RR-SWT-009-MAR",
+    "sku": "RR-SWT-009-MAR",
+    "name": "Rare Rabbit Sweatshirt - Tonal Embroidered 'Rare Rabbit' (MK044)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "M, L, XL, XXL (Slim Fit)",
+    "color": "Maroon / Burgundy",
+    "material": "340 GSM 100% Cotton Fleece",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_64.png",
+    "images": [
+      "/images/image_64.png"
+    ],
+    "status": "Active",
+    "description": "Classic burgundy crewneck sweatshirt with subtle tonal 'Rare Rabbit' script chest embroidery, luxury neck branding and woven cuff badge with gift box"
+  },
+  {
+    "id": "MK044",
+    "sku": "MK044",
+    "name": "Rare Rabbit Sweatshirt – MK044",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "7 designs (seller stated); M, L, XL, XXL",
+    "color": "Multiple colours and designs",
+    "material": "100% Cotton Fleece, 340 GSM",
+    "mrp": "",
+    "price": "2000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "rare-rabbit-sweatshirt-mk044-black-front.jpeg",
+    "images": [
+      "/images/rare-rabbit-sweatshirt-mk044-black-front.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-label-detail.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-seven-designs-collage.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-packaging-flatlay.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-colour-range-flatlay.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-neck-label-detail.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-packaging-detail.jpeg",
+      "/images/rare-rabbit-sweatshirt-mk044-product-collage.jpeg"
+    ],
+    "status": "Active",
+    "description": "Rare Rabbit sweatshirt, code MK044. 7 designs. Sizes M–XXL. 340 GSM, 100% cotton fleece, slim fit. ₹2,000 each"
+  },
+  {
+    "id": "SS-SWT-020-COR",
+    "sku": "SS-SWT-020-COR",
+    "name": "Scotch & Soda 'The Book I Almost Wrote' Sweatshirt (100% Original Article)",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "S, M, L, XL, XXL",
+    "color": "Coral / Terracotta Orange",
+    "material": "Cotton Fleece Fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "scotch-soda-book-sweatshirt-model.jpeg",
+    "images": [
+      "/images/scotch-soda-book-sweatshirt-model.jpeg",
+      "/images/scotch-soda-book-sweatshirt-full-model.jpeg",
+      "/images/scotch-soda-book-sweatshirt-flatlay.jpeg",
+      "/images/scotch-soda-book-sweatshirt-label.jpeg"
+    ],
+    "status": "Active",
+    "description": "Scotch & Soda sweatshirt featuring 'The Book I Almost Wrote' front graphic. Cotton fleece fabric, regular fit, sizes S, M, L, XL and XXL. Single design"
+  },
+  {
+    "id": "SCOTCH-SODA-SWEATSHIRT",
+    "sku": "SCOTCH-SODA-SWEATSHIRT",
+    "name": "Scotch & Soda Graphic Sweatshirt",
+    "category": "Apparel > Men's Sweatshirts",
+    "variant": "Single design; S, M, L, XL, XXL",
+    "color": "Coral / salmon",
+    "material": "Cotton fleece fabric",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "client-upload-009-whatsapp-image-2026-11-02-at-4-23-29-pm-1.jpeg",
+    "images": [
+      "/images/client-upload-009-whatsapp-image-2026-11-02-at-4-23-29-pm-1.jpeg",
+      "/images/client-upload-010-whatsapp-image-2026-11-02-at-4-23-29-pm-2.jpeg",
+      "/images/client-upload-011-whatsapp-image-2026-11-02-at-4-23-29-pm-3.jpeg",
+      "/images/client-upload-012-whatsapp-image-2026-11-02-at-4-23-29-pm.jpeg"
+    ],
+    "status": "Active",
+    "description": "Scotch & Soda sweatshirt. Single design. Sizes S–XXL. Cotton fleece, regular fit. ₹1,800 each or 2 for ₹3,000; shipping extra"
+  },
+  {
+    "id": "KOREAN-BACKPACK-001-BLK",
+    "sku": "KOREAN-BACKPACK-001-BLK",
+    "name": "Korean Backpack",
+    "category": "Bags & Accessories > Backpacks",
+    "variant": "Single Design",
+    "color": "Black / Charcoal Grey",
+    "material": "Polyester",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "korean-backpack-collage.jpeg",
+    "images": [
+      "/images/korean-backpack-collage.jpeg",
+      "/images/korean-backpack-detail-fabric.jpeg",
+      "/images/korean-backpack-main-compartment.jpeg",
+      "/images/korean-backpack-buckle-detail.jpeg",
+      "/images/korean-backpack-back-view.jpeg",
+      "/images/korean-backpack-lifestyle.jpeg",
+      "/images/korean-backpack-front-product.jpeg"
+    ],
+    "status": "Active",
+    "description": "Korean backpack in polyester with zip compartments. Single design"
+  },
+  {
+    "id": "100-PIPPERS-DUFFLE-001",
+    "sku": "100-PIPPERS-DUFFLE-001",
+    "name": "100 Pipers Duffle Bag",
+    "category": "Bags & Accessories > Duffle Bags",
+    "variant": "2 Designs",
+    "color": "Black and Tan/Brown accents",
+    "material": "Leather fabric (seller supplied description; exact composition not verified)",
+    "mrp": "",
+    "price": "1800",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "100-pipers-duffle-collage.jpeg",
+    "images": [
+      "/images/100-pipers-duffle-collage.jpeg",
+      "/images/100-pipers-duffle-model.jpeg",
+      "/images/100-pipers-duffle-detail-zipper.jpeg",
+      "/images/100-pipers-duffle-detail-straps.jpeg",
+      "/images/100-pipers-duffle-detail-badge.jpeg",
+      "/images/100-pipers-duffle-base.jpeg"
+    ],
+    "status": "Active",
+    "description": "Duffle bag with zip compartments and two designs"
+  },
+  {
+    "id": "BOSS-DFL-001-BLK",
+    "sku": "BOSS-DFL-001-BLK",
+    "name": "Hugo Boss Duffle Bag",
+    "category": "Bags & Accessories > Duffle Bags",
+    "variant": "Travel / Duffle Bag",
+    "color": "Black",
+    "material": "Synthetic Fabric",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "boss-duffle-collage.jpeg",
+    "images": [
+      "/images/boss-duffle-collage.jpeg",
+      "/images/boss-duffle-airport-lifestyle.jpeg",
+      "/images/boss-duffle-hardware-detail.jpeg",
+      "/images/boss-duffle-front-lifestyle.jpeg",
+      "/images/boss-duffle-brand-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Black Hugo Boss duffle bag with zip compartments and travel-ready carry handles. Synthetic fabric"
+  },
+  {
+    "id": "COA-SB-002-BLK",
+    "sku": "COA-SB-002-BLK",
+    "name": "Coach Sling Bag (Imported Article)",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Cross-body / Adjustable strap",
+    "color": "Black",
+    "material": "Leather material",
+    "mrp": "",
+    "price": 2500,
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "coach-sling-black-front.jpeg",
+    "images": [
+      "/images/coach-sling-black-front.jpeg",
+      "/images/coach-sling-black-lifestyle.jpeg",
+      "/images/coach-sling-black-back.jpeg",
+      "/images/coach-sling-black-front-alt.jpeg",
+      "/images/coach-sling-black-strap-detail.jpeg",
+      "/images/coach-sling-black-zip-detail.jpeg",
+      "/images/coach-sling-black-dustbag.jpeg"
+    ],
+    "status": "Active",
+    "description": "Coach sling bag (imported article). Super Fit with adjustable strap; cross-body design. Leather material"
+  },
+  {
+    "id": "DAVID-JONES-SLING-001-BLK",
+    "sku": "DAVID-JONES-SLING-001-BLK",
+    "name": "David Jones Sling Bag",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Single Design / Crossbody",
+    "color": "Black",
+    "material": "Leather material (as supplied in product details; composition not independently verified)",
+    "mrp": "",
+    "price": "1400",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "david-jones-sling-collage.jpeg",
+    "images": [
+      "/images/david-jones-sling-collage.jpeg",
+      "/images/david-jones-sling-strap-detail.jpeg",
+      "/images/david-jones-sling-front.jpeg",
+      "/images/david-jones-sling-tag-detail.jpeg",
+      "/images/david-jones-sling-inner-label.jpeg",
+      "/images/david-jones-sling-zipper-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Imported crossbody sling bag with adjustable strap and zip compartments. Single design"
+  },
+  {
+    "id": "ARM-SB-007-BLK",
+    "sku": "ARM-SB-007-BLK",
+    "name": "Giorgio Armani / Emporio Armani Sling Bag (Imported Article)",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Adjustable Strap / Super Fit",
+    "color": "Black",
+    "material": "Leather Material / Textured Fabric Combination",
+    "mrp": "",
+    "price": "2500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_43.png",
+    "images": [
+      "/images/image_43.png"
+    ],
+    "status": "Active",
+    "description": "Cross body sling bag featuring Emporio Armani Eagle metal badge with tricolor metallic detailing, heavy-duty zip front pocket with Emporio Armani branded…"
+  },
+  {
+    "id": "GIORGIO-ARMANI-SLING-001",
+    "sku": "GIORGIO-ARMANI-SLING-001",
+    "name": "Giorgio Armani Sling Bag",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "1 Design / Crossbody Bag",
+    "color": "Black",
+    "material": "Leather material (seller supplied description; exact composition not verified)",
+    "mrp": "",
+    "price": "2500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "giorgio-armani-sling-collage.jpeg",
+    "images": [
+      "/images/giorgio-armani-sling-collage.jpeg",
+      "/images/giorgio-armani-sling-front.jpeg",
+      "/images/giorgio-armani-sling-logo-detail.jpeg",
+      "/images/giorgio-armani-sling-strap-detail.jpeg",
+      "/images/giorgio-armani-sling-back.jpeg",
+      "/images/giorgio-armani-sling-zipper-detail.jpeg",
+      "/images/giorgio-armani-sling-zipper-pull.jpeg"
+    ],
+    "status": "Active",
+    "description": "Black crossbody sling bag with adjustable strap and zip compartments. Imported article"
+  },
+  {
+    "id": "GUC-SB-003-BLK",
+    "sku": "GUC-SB-003-BLK",
+    "name": "Gucci Sling Bag (Imported Article)",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Adjustable Strap / Super Fit",
+    "color": "Black",
+    "material": "Leather Material",
+    "mrp": "",
+    "price": "3500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_19.png",
+    "images": [
+      "/images/image_19.png"
+    ],
+    "status": "Active",
+    "description": "Cross body bag with embossed GG monogram motif, front zip compartment with branded zipper pull, embossed Gucci logo, branded adjustable shoulder strap"
+  },
+  {
+    "id": "LAC-SB-001-BLK",
+    "sku": "LAC-SB-001-BLK",
+    "name": "Lacoste Sling Bag (Imported Article)",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Adjustable Strap / Super Fit",
+    "color": "Black",
+    "material": "Leather Material",
+    "mrp": "",
+    "price": "2500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "lacoste-sling-black-front.jpeg",
+    "images": [
+      "/images/lacoste-sling-black-front.jpeg",
+      "/images/lacoste-sling-black-model.jpeg",
+      "/images/lacoste-sling-black-logo-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Lacoste sling bag in black. Super Fit with adjustable strap; cross-body design. Leather material"
+  },
+  {
+    "id": "LAC-SB-001-YLW",
+    "sku": "LAC-SB-001-YLW",
+    "name": "Lacoste Sling Bag (Imported Article)",
+    "category": "Bags & Accessories > Sling Bags",
+    "variant": "Adjustable Strap / Super Fit",
+    "color": "Mustard Yellow",
+    "material": "Leather Material",
+    "mrp": "",
+    "price": "2500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "lacoste-sling-yellow-back.jpeg",
+    "images": [
+      "/images/lacoste-sling-yellow-back.jpeg",
+      "/images/lacoste-sling-yellow-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Lacoste sling bag in mustard yellow. Super Fit with adjustable strap; cross-body design. Leather material"
+  },
+  {
+    "id": "HB-WLT-011-PLT",
+    "sku": "HB-WLT-011-PLT",
+    "name": "Hugo Boss Monad Wallet - Corner Plaque Logo",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Bi-Fold with Coin Pocket / Removable Card Insert / Standard",
+    "color": "Black",
+    "material": "Textured Pebble Grain Leather / Leather Finish",
+    "mrp": "",
+    "price": "2700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_79.png",
+    "images": [
+      "/images/image_79.png"
+    ],
+    "status": "Active",
+    "description": "Classic executive bi-fold wallet in pebbled black leather with corner engraved BOSS logo plaque, full card slots, coin pocket, and presentation gift box"
+  },
+  {
+    "id": "HB-WLT-011-EMB",
+    "sku": "HB-WLT-011-EMB",
+    "name": "Hugo Boss Monad Wallet - Embossed Oversized Logo",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Bi-Fold with Coin Pocket / Removable Card Insert / Standard",
+    "color": "Black",
+    "material": "Textured Pebble Grain Leather / Leather Finish",
+    "mrp": "",
+    "price": "2700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_78.png",
+    "images": [
+      "/images/image_78.png"
+    ],
+    "status": "Active",
+    "description": "Premium pebble-grain leather bi-fold wallet featuring large embossed 'BOSS' lettering across the bottom corner, coin pocket, card slots, and luxury…"
+  },
+  {
+    "id": "HB-WLT-011-MTL",
+    "sku": "HB-WLT-011-MTL",
+    "name": "Hugo Boss Monad Wallet - Silver Metal Badge Logo",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Bi-Fold with Coin Pocket / Removable Card Insert / Standard",
+    "color": "Black",
+    "material": "Textured Pebble Grain Leather / Leather Finish",
+    "mrp": "",
+    "price": "2700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_82.png",
+    "images": [
+      "/images/image_82.png"
+    ],
+    "status": "Active",
+    "description": "Sleek pebble leather bi-fold wallet with polished silver metallic 'BOSS' badge on bottom corner, snap coin compartment, card slots, and designer box"
+  },
+  {
+    "id": "TH-WLT-010-BLK",
+    "sku": "TH-WLT-010-BLK",
+    "name": "Tommy Hilfiger Tri-Fold Leather Wallet with Box (Imported Article)",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Tri-Fold / Standard",
+    "color": "Black",
+    "material": "100% Genuine Leather / Leather Finish",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_72.png",
+    "images": [
+      "/images/image_72.png"
+    ],
+    "status": "Active",
+    "description": "Imported luxury tri-fold genuine leather wallet featuring signature stitched Tommy Hilfiger logo badge, interior ID window, card slots, and signature…"
+  },
+  {
+    "id": "TH-WLT-010-DBRN",
+    "sku": "TH-WLT-010-DBRN",
+    "name": "Tommy Hilfiger Tri-Fold Leather Wallet with Box (Imported Article)",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Tri-Fold / Standard",
+    "color": "Dark Brown / Chocolate",
+    "material": "100% Genuine Leather / Leather Finish",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_70.png",
+    "images": [
+      "/images/image_70.png"
+    ],
+    "status": "Active",
+    "description": "Imported luxury tri-fold genuine leather wallet featuring signature stitched Tommy Hilfiger logo badge, interior ID window, card slots, and signature…"
+  },
+  {
+    "id": "TH-WLT-010-TAN",
+    "sku": "TH-WLT-010-TAN",
+    "name": "Tommy Hilfiger Tri-Fold Leather Wallet with Box (Imported Article)",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Tri-Fold / Standard",
+    "color": "Tan Brown",
+    "material": "100% Genuine Leather / Leather Finish",
+    "mrp": "",
+    "price": "1700",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_74.png",
+    "images": [
+      "/images/image_74.png"
+    ],
+    "status": "Active",
+    "description": "Imported luxury tri-fold genuine leather wallet featuring signature stitched Tommy Hilfiger logo badge, interior ID window, card slots, and signature…"
+  },
+  {
+    "id": "VH-WLT-011-DBRN",
+    "sku": "VH-WLT-011-DBRN",
+    "name": "Van Heusen Bi-Fold Wallet with Box (Imported Article)",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Bi-Fold / Standard",
+    "color": "Dark Brown / Chocolate",
+    "material": "Leather Material / Leather Finish",
+    "mrp": "",
+    "price": "1500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_83.png",
+    "images": [
+      "/images/image_83.png"
+    ],
+    "status": "Active",
+    "description": "Imported luxury bi-fold wallet featuring embossed Van Heusen logo emblem, multiple card slots, dual currency compartments, and premium leather finish.…"
+  },
+  {
+    "id": "VH-WLT-011-TAN",
+    "sku": "VH-WLT-011-TAN",
+    "name": "Van Heusen Bi-Fold Wallet with Box (Imported Article)",
+    "category": "Bags & Accessories > Wallets",
+    "variant": "Bi-Fold / Standard",
+    "color": "Tan Brown",
+    "material": "Leather Material / Leather Finish",
+    "mrp": "",
+    "price": "1500",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_84.png",
+    "images": [
+      "/images/image_84.png"
+    ],
+    "status": "Active",
+    "description": "Imported luxury bi-fold wallet featuring embossed Van Heusen logo emblem, multiple card slots, dual currency compartments, and premium leather finish.…"
+  },
+  {
+    "id": "KOR-BP-005-BLK",
+    "sku": "KOR-BP-005-BLK",
+    "name": "Korean Backpack (100% Original Article)",
+    "category": "Bags & Travel > Backpacks",
+    "variant": "Standard / Multi-Zip Compartments",
+    "color": "Charcoal / Monogram Black",
+    "material": "Polyester",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_38.png",
+    "images": [
+      "/images/image_38.png"
+    ],
+    "status": "Active",
+    "description": "Urban Korean style flap backpack with geometric monogram print, heavy-duty latch buckle straps, multiple zip compartments, padded shoulder straps, side…"
+  },
+  {
+    "id": "HB-DB-004-D1",
+    "sku": "HB-DB-004-D1",
+    "name": "Hugo Boss Duffle Bag - Design 1 (100% Original Article)",
+    "category": "Bags & Travel > Duffle Bags",
+    "variant": "Large Travel / Multi-Zip Compartments",
+    "color": "Black",
+    "material": "Synthetic Fabric",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_30.png",
+    "images": [
+      "/images/image_30.png"
+    ],
+    "status": "Active",
+    "description": "Premium travel weekender duffle bag with multiple zip compartments, dual top carry handles, branded shoulder strap, embossed lower BOSS branding, metal…"
+  },
+  {
+    "id": "HB-DB-004-D2",
+    "sku": "HB-DB-004-D2",
+    "name": "Hugo Boss Duffle Bag - Design 2 (100% Original Article)",
+    "category": "Bags & Travel > Duffle Bags",
+    "variant": "Large Travel / Multi-Zip Compartments",
+    "color": "Black / Tri-color Accent",
+    "material": "Synthetic Fabric",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_31.png",
+    "images": [
+      "/images/image_31.png"
+    ],
+    "status": "Active",
+    "description": "Barrel duffle bag featuring bold contrast BOSS graphic branding patch, high-grade hardware, heavy-duty synthetic fabric, zip compartments"
+  },
+  {
+    "id": "HB-DB-004-D3",
+    "sku": "HB-DB-004-D3",
+    "name": "Hugo Boss Duffle Bag - Design 3 (100% Original Article)",
+    "category": "Bags & Travel > Duffle Bags",
+    "variant": "Large Travel / Multi-Zip Compartments",
+    "color": "Black / Silver Accent",
+    "material": "Synthetic Fabric",
+    "mrp": "",
+    "price": "5000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_28.png",
+    "images": [
+      "/images/image_28.png"
+    ],
+    "status": "Active",
+    "description": "Executive travel duffle bag with side utility pockets, silver metallic BOSS plate logo, reinforced dual hand straps, adjustable shoulder strap"
+  },
+  {
+    "id": "TRL-SET-006-KHK",
+    "sku": "TRL-SET-006-KHK",
+    "name": "Branded Trolley Bags - 3 Piece Set (Imported Article)",
+    "category": "Bags & Travel > Luggage & Suitcases",
+    "variant": "Small / Medium / Large – Full Set",
+    "color": "Single colour",
+    "material": "Polyester",
+    "mrp": "",
+    "price": 6500,
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "branded-trolley-full-set.jpeg",
+    "images": [
+      "/images/branded-trolley-full-set.jpeg",
+      "/images/branded-trolley-lock-detail.jpeg",
+      "/images/branded-trolley-zip-detail.jpeg"
+    ],
+    "status": "Active",
+    "description": "Branded trolley bags (imported article). Full set includes small, medium and large sizes. Single colour. Polyester material. Cash on"
+  },
+  {
+    "id": "VS-MST-014-BVS",
+    "sku": "VS-MST-014-BVS",
+    "name": "Victoria's Secret Bare Vanilla Shimmer Fragrance Mist",
+    "category": "Beauty & Personal Care > Fragrances & Body Mists",
+    "variant": "250ml / 8.4 fl oz",
+    "color": "Shimmering Gold / Amber",
+    "material": "Fragrance Mist / Shimmer Fragrance Mist",
+    "mrp": "",
+    "price": "1000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_102.png",
+    "images": [
+      "/images/image_102.png"
+    ],
+    "status": "Active",
+    "description": "Warm gourmand whipped vanilla and soft cashmere with illuminating radiant shimmer particles. 250ml / 8.4 fl oz"
+  },
+  {
+    "id": "VS-MST-014-LSS",
+    "sku": "VS-MST-014-LSS",
+    "name": "Victoria's Secret Love Spell Shimmer Fragrance Mist",
+    "category": "Beauty & Personal Care > Fragrances & Body Mists",
+    "variant": "250ml / 8.4 fl oz",
+    "color": "Shimmering Iridescent White / Pearl",
+    "material": "Fragrance Mist / Shimmer Fragrance Mist",
+    "mrp": "",
+    "price": "1000",
+    "costPrice": "",
+    "stock": "",
+    "imageRef": "image_103.png",
+    "images": [
+      "/images/image_103.png"
+    ],
+    "status": "Active",
+    "description": "Iconic cherry blossom and fresh peach scent combined with micro-fine sparkling shimmer. 250ml / 8.4 fl oz"
+  }
+]
